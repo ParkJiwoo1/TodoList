@@ -1,0 +1,41 @@
+.item_remove {
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #dee2e6;
+  font-size: 32px;
+  cursor: pointer;
+}
+.item_remove:hover {
+  opacity: 1;
+  font-size: 32px;
+  color: #ff6b6b;
+}
+.item_block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.item_circle {
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  border: 1px solid #ced4da;
+  font-size: 24px;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.item_text {
+  flex: 1;
+  font-size: 21px;
+  color: #495057;
+}
