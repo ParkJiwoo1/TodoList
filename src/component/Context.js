@@ -3,7 +3,7 @@ import React, { useReducer, createContext, useContext, useRef } from "react";
 const initialTodo = [
   {
     id: 1,
-    text: "d",
+    text: "what todo",
     done: "true",
   },
 ];
